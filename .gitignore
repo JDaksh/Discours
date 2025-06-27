@@ -1,3 +1,10 @@
+# also since this is annoying
+*.exe
+*.cfg
+activate
+Activate.ps1
+*.bat
+*.h
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
