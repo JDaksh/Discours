@@ -42,10 +42,14 @@ Implemented:
 - - While not packaged up as part of the application, POSTMAN was used for managing API requests
 
 In Progress:
-- Heroku
+- Shifting to a linux environment
 
 Future work:
-- NGINX technologies implement
-- Shifting from a windows to linux environment and dockerizing the whole application
+- gunicorn, NGINX technologies implement
+- dockerizing the whole application
 - Automating Testing
 - CI/CD
+
+Hosting:
+- Tried Heroku, it's no longer free
+- AWS or DigitalOcean next
