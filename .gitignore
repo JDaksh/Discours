@@ -5,6 +5,7 @@ activate
 Activate.ps1
 *.bat
 *.h
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
