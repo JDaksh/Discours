@@ -7,11 +7,12 @@ Implemented:
 - Authentication is implemented using JWT Tokens and is enforced
 - Technologies used:
 - - PostgreSQL for the database
-- - Python with FASTAPI for setting up APIs and SQLAlchemy, Alembic to communicate with the database
-- - While not packaged up as part of the application, I used a lot of POSTMAN for managing API requests
+- - Python with FASTAPI for setting up APIs 
+- - SQLAlchemy and Alembic to abstract and automate communication with the database
+- - While not packaged up as part of the application, I used POSTMAN for managing API requests
 
 In Progress:
-- Database Migration tools
+- CORS
 
 Future work:
 - Heroku, NGINX technologies implement
